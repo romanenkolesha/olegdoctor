@@ -1,0 +1,18 @@
+body {
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 22px;
+}
+.roiM {
+    font-weight: bold;
+    font-style: italic;
+}
+.roi {
+    font-style: italic;
+}
+.menu_item {
+    text-decoration: none;
+    color: #909090;
+}
+.menu_item_active {
+    color: #333;
+}
