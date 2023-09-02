@@ -26,3 +26,6 @@ body {
     border-bottom: 1px solid;
     color: #06c;
 }
+a:hover {
+    color: #C00;
+}
