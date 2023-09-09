@@ -26,6 +26,22 @@ body {
     border-bottom: 1px solid;
     color: #06c;
 }
+
 a:hover {
     color: #C00;
+}
+
+.top {
+    position: fixed;
+    right: 30px;
+    bottom: 20px;
+    /* visual styling */
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #fff;
+    /*background: #000;*/
+    background: #06c;
+    border-radius: 100px;
+    white-space: nowrap;
 }
